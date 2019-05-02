@@ -1,0 +1,3 @@
+run mainFile_all.m
+the results file will be saved as 'GA-name of dataset'
+run mainFile_all_20R to run the experments 20 times with diffrent seed
